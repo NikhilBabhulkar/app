@@ -1,0 +1,2 @@
+.formcontainer{align-items:center;background-color:azure;display:flex;flex-direction:column;justify-content:center;padding:5rem;width:100vw}h1{color:#8a2be2}form{display:flex;flex-direction:column;width:60rem}button,form input,label{border-radius:1rem;font-weight:500;margin:10px;padding:1rem;width:50%}button{background-color:#4d7feb}@media only screen and (max-width:760px){form{display:flex;flex-direction:column;width:30rem}}.Gender{display:flex;margin:1rem;width:20rem}*{border:0;margin:0}
+/*# sourceMappingURL=main.4611f0b1.css.map*/
