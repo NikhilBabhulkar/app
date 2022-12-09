@@ -1,0 +1,45 @@
+.formcontainer{
+    width: 100vw;
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: azure;
+}
+
+h1{
+    color: blueviolet;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 60rem;
+}
+
+form input,label,button{
+width: 50%;
+padding: 1rem;
+font-weight: 500;
+margin: 10px;
+border-radius: 1rem;
+}
+
+button{
+    background-color: rgb(77, 127, 235);
+}
+
+@media only screen and (max-width: 760px) {
+    form {
+            display: flex;
+            flex-direction: column;
+            width: 30rem;
+        }
+}
+
+.Gender{
+    display: flex;
+    width: 20rem;
+    margin: 1rem;
+}
